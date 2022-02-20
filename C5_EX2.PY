@@ -25,5 +25,5 @@ while count <= 10:
     count += 1
 
 endTime = time.time()
-print("Corrent count is {}".format(rightAnswer))
+print("Correct count is {}".format(rightAnswer))
 print("Test time is {}".format(endTime - startTime))
